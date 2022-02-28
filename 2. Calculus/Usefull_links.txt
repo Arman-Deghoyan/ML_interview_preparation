@@ -1,0 +1,4 @@
+3. For more material MML book 139 - 170
+
+4. Short and nice overview in
+ https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html 

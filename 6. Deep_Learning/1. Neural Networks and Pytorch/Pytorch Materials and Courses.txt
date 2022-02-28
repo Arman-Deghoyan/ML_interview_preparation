@@ -1,0 +1,5 @@
+1. A very good GitHub repository that includes lesson-like explanations on everything we have covered (torch tensors, NNs) and more.
+https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+
+
+2. Very very very very GOOD and FREE course for PyTorch and NNs from Facebook: - https://www.udacity.com/course/deep-learning-pytorch--ud188

@@ -1,0 +1,28 @@
+
+1. What is the difference between validation and test set.
+2. The main idea behind cross validation.
+3. What is the difference between a model parameter and a learning algorithm’s hyperparameter?
+4. What is the purpose of a validation set?
+5. Precision, Recall, confusion matrix and roc and auc 
+6. WHy if P value is small than the feature is significant
+7 Feature selection methods are wraper methods which are forward selection and backward selection or in fast ai feature importance vor
+konkret column@ shuffle enq anum train anum heto tenum validation score@ shata poxve te che ete qicha poxvum uremn et feature@ karevor chi 
+ete shat poxvum uremn karevora.
+U kan filter methodner orinak Anova u chi-square
+8. what is the main differnce in ridge and lasson and which is used when .... in ridge regression regression we make squared penalty 
+and coefficients chen kara darnan 0, aysinqn menq ridge kogtagorcenq en jamanak erb mer useless featurener@ qichen isk ete mer useless
+featurener@ shaten menq kogtagorcenq lasso regression vortev lasson vat featureneri coefficient@ karuma sarqi 0 moduli hashvin.
+Harc inch ridge @ karuma isk lasson che. Lambdan gtnumenq cross validationov u ogtagorcumenq overfitting ic avoid anelu hamar. 
+9. Elastic Net@ ogtagorcuma Lasso u Ridge regression penalty n irar het u inq@ aveli lava correlacvac featureneri het vortev elastici
+oqnutyamb karumenq rad anenq dranq.
+10. What is naive bayes classifier and where it is used.
+11. Which models in machine learning have low bias and high variance and which models have high bias and low variance and on which training
+data to use them.
+12.Irreducible errori stacum@ 
+13. Difference between pruning and cost complexity pruning and the difference between growing a tree with cross entropy and Gini index.
+14. chi square test for correlated categorical variables
+15.  Is it possible capture the correlation between continuous and categorical variable? If yes, how? Yes ANova test how?
+16. WHy is adjusted R squared metric better than R squared for model accuracy?
+17. WHy is MSE better metric than Cross Entropy in classification.
+18. How to choose KNN in K n meke expectation maximization mekel student t distribution. 
+
